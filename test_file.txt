@@ -1,5 +1,9 @@
 
 
+<<<<<<< HEAD
 do you think s ?
 
 
+=======
+seems fine? do you think soo ?
+>>>>>>> extended-feature
