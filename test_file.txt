@@ -1,3 +1,5 @@
 How is everything going on?
 
-seems fine? Ha ?
+seems fine?
+
+This line is needed for extension part of new-feature
