@@ -1,5 +1,0 @@
-Back to the world
-
-Welcome to mars!
-
-This line is needed to implement new-feature
